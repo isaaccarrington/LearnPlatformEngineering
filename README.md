@@ -7,25 +7,25 @@ focused on technical skills only.
 
 ## The Goal
 
-Here is an ordered list of technical skills to gain:
+Here is a list of technical skills to gain:
 
-1. Competency in a programming language
-1. Git
-1. Networking (TLS, DNS)
-1. Datacentre basics (racks, servers, switches)
-1. Virtualisation platform basics
-1. Storage
-1. SQL
-1. VM basics (what is a VM, provisioning, destroying, maintaining)
-1. Operating system administration
-1. Load balancing and scaling
-1. Continuous integration
-1. Continuous development
-1. Security (RBAC, Least Privilege, CVEs)
-1. Observability
-1. Monitoring and Alerting
+- Competency in a programming language
+- Git
+- Networking (TLS, DNS)
+- Datacentre basics (racks, servers, switches)
+- Virtualisation platform basics
+- Storage
+- SQL
+- VM basics (what is a VM, provisioning, destroying, maintaining)
+- Operating system administration
+- Load balancing and scaling
+- Continuous integration
+- Continuous development
+- Security (RBAC, Least Privilege, CVEs)
+- Observability
+- Monitoring and Alerting
 
-## Becoming competent in a programming language
+## Step 1 - Becoming competent in a programming language
 
 ### Why
 Here is why you should invest in this skill and why it isn't necessarily the programming language
@@ -60,4 +60,10 @@ trying tutorials until you can:
 - Understand variables and scope
 - Can describe and appropriately use naming and spacing conventions
 
+## Step 2 - Git basics
+
+Tools that store source code, like [Github], use [Git] for version control.
+
+[Git]: <https://git-scm.com/doc>
+[Github]: <https://github.com>
 [Python]: <https://www.python.org>
