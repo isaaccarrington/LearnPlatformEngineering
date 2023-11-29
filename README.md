@@ -7,23 +7,23 @@ focused on technical skills only.
 
 ## The Goal
 
-The goal is to be competent in these technical skills as quickly as possible:
+Here is an ordered list of technical skills to gain:
 
-- Competency in a programming language
-- Git
-- Networking (TLS, DNS)
-- Datacentre basics (racks, servers, switches)
-- Virtualisation platform basics
-- Storage
-- SQL
-- VM basics (what is a VM, provisioning, destroying, maintaining)
-- Operating system administration
-- Load balancing and scaling
-- Continuous integration
-- Continuous development
-- Security (RBAC, Least Privilege, CVEs)
-- Observability
-- Monitoring and Alerting
+1. Competency in a programming language
+1. Git
+1. Networking (TLS, DNS)
+1. Datacentre basics (racks, servers, switches)
+1. Virtualisation platform basics
+1. Storage
+1. SQL
+1. VM basics (what is a VM, provisioning, destroying, maintaining)
+1. Operating system administration
+1. Load balancing and scaling
+1. Continuous integration
+1. Continuous development
+1. Security (RBAC, Least Privilege, CVEs)
+1. Observability
+1. Monitoring and Alerting
 
 ## Becoming competent in a programming language
 
