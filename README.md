@@ -27,6 +27,7 @@ The goal is to be competent in these technical skills as quickly as possible:
 
 ## Becoming competent in a programming language
 
+### Why
 Here is why you should invest in this skill and why it isn't necessarily the programming language
 itself that will help you, but the skills in modern software development that will.
 
@@ -41,3 +42,22 @@ tools.
 The tools we use are written in a programming language ! Yes, of course they are. But why do I care?
 Because when you are maintaining this tool and it stops working, guess who has to fix it, you `;)`.
 
+The reasons why go on and on. What you probably want to know now is where to get started.
+
+### How
+There are different types of programming paradigms and different languages in each. Why not go for
+something common in both? [Python] is common and has good community support, meaning that if you
+get stuck it's going to be easy to find help.
+
+One does not simply learn a programming language and this guide will not simply teach one to you,
+instead, heading over to the [Python] website and find the `Getting Started Guide`. Keep learning and
+trying tutorials until you can:
+
+- Understand the different data types
+- Create functions
+- Create objects
+- Use loops and controls flows
+- Understand variables and scope
+- Can describe and appropriately use naming and spacing conventions
+
+[Python]: <https://www.python.org>
