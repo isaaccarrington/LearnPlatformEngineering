@@ -62,8 +62,26 @@ trying tutorials until you can:
 
 ## Step 2 - Git basics
 
-Tools that store source code, like [Github], use [Git] for version control.
+Tools that store source code, like [Github], use [Git] for version control. Use the command line
+instead of relying on an [IDE] or any other tools.
+
+- Create an account in [Github] (it's free)
+- Create a repository
+- Clone the repository to your computer (remember use the command line)
+- Create a file, `README.md`, put your name as a heading and then write and sentence about yourself
+- Stage your changes and commit them
+- Now take a look at the rendered README file in Github
+
+The commands you run above will look similar to this:
+
+```bash
+git clone https://github.com/isaaccarrington/LearnPlatformEngineering.git
+git add README.md
+git commit -m "Added README for intial commit"
+git push -u origin main
+```
 
 [Git]: <https://git-scm.com/doc>
 [Github]: <https://github.com>
+[IDE]: <https://aws.amazon.com/what-is/ide/>
 [Python]: <https://www.python.org>
