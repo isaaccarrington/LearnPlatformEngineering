@@ -5,6 +5,12 @@ Step by step guide on becoming a Platform Engineer.
 This is a **work in progress**. Intended to be useful but not cover everything, also primarily
 focused on technical skills only.
 
+Some of the gaps in instructions are intentional, but will try to keep it to things worth discovering on
+your own or not quite worth explaining.
+
+Each step is a progression and builds on the previous ones, so although tempting, don't skip steps
+until you are fully competent to the level of skill required for the step.
+
 ## The Goal
 
 Here is a list of technical skills to gain:
@@ -25,7 +31,7 @@ Here is a list of technical skills to gain:
 - Observability
 - Monitoring and Alerting
 
-## Step 1 - Becoming competent in a programming language
+## Step 1 - Start learning a programming language
 
 ### Why
 Here is why you should invest in this skill and why it isn't necessarily the programming language
@@ -80,6 +86,12 @@ git add README.md
 git commit -m "Added README for intial commit"
 git push -u origin main
 ```
+
+Look at what you have just accomplished and see how the commands relate to the three main states in
+Git. Now try creating a branch, making a change, and then merging the branch into the main branch.
+
+If you got this far and understand what's going on then congratulations you know the basics of Git!
+If not, never fear, there is loads of documentation out there on this section. 
 
 [Git]: <https://git-scm.com/doc>
 [Github]: <https://github.com>
